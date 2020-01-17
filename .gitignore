@@ -1,0 +1,4 @@
+cat .gitignore 
+ 
+*.dat # tells it to ignore all files ending in .dat 
+results/
